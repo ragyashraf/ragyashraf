@@ -1,49 +1,70 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Ragy+Ashraf;Discord+Bot+Engineer;Roblox+Game+Dev;Python+%7C+C%2B%2B+%7C+Lua+%7C+Java&center=true&width=500&height=45)](https://github.com/ragyashraf)
+<p align="center">
+  <img src="https://github.com/ragyashraf/ragyashraf/blob/main/swagium-banner.png" alt="SwagiumGPT Creator Banner" width="100%">
+</p>
 
-# 👋 Welcome to My GitHub Profile
-
-🔧 Software Developer | 🤖 Discord Bot Engineer | 🎮 Roblox Game Maker  
-💬 Skilled in Python • C++ • Java • Lua  
-🧠 Currently building **SwagiumGPT** – a next-gen AI system for Discord bots & automation  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Ragy+Ashraf;Space-level+Bot+Engineer;AI-powered+Automation+Architect;Roblox+Game+Dev+%7C+Python+%7C+Lua+%7C+Java&center=true&width=500&height=45)](https://github.com/ragyashraf)
 
 ---
 
-## 🔥 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ragyashraf&theme=onedark&no-frame=true&margin-w=10&row=2&column=3)
+# 🌌 Welcome to the Terminal of Tomorrow
+
+> 🧠 Software Dev | 🤖 Discord AI Creator | 🕹️ Roblox Engineer | 💻 Multi-language Coder  
+> Currently building **SwagiumGPT** – a smart, modular AI that learns, responds, and evolves.
 
 ---
 
-## 💻 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,lua,git,github,vscode,replit,mysql,figma&theme=dark" />
+## 🧠 SwagiumGPT Core Modules
+```
+🧬 Natural Language Understanding
+🧩 Modular Cogs & Plugins
+📊 AI-Driven Recommendations
+📡 API + Dashboard + DB Integration
+🧠 Memory & Context
+```
+
+---
+
+## 💻 Languages & Tools I Deploy Like Magic
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,lua,js,git,github,replit,vscode,figma,mysql,flask&theme=dark" />
 </p>
 
 ---
 
-## 🧠 Projects & Highlights
-- 🔹 **SwagiumGPT**: AI-powered Discord system with natural language understanding, modular cogs, and web integration  
-- 🔹 **Roblox Mechanics**: Lua-based gameplay logic, XP systems, shop modules, and custom UI  
-- 🔹 **Bot Tools**: Scripted automation, image editing, and advanced Discord commands  
+## 👾 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ragyashraf&theme=algolia&no-frame=true&margin-w=10&column=3" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragyashraf&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![Ragy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragyashraf&layout=compact&theme=tokyonight)
+## 📈 Contribution Pulse
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ragyashraf&bg_color=1d1d1d&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 📊 Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ragyashraf&bg_color=1d1d1d&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true)
+## 🚀 Live Projects & Showcases
+- `SwagiumGPT` – Smart AI for Discord (Private Core, Public Showcase coming soon)
+- `Roblox Systems` – Lua-based XP, shop, and game logic modules
+- `ImageBot Tools` – Python bots for image editing, sniping, command integration
 
 ---
 
-## 👁️ Profile Visitors
+## 👁️ Terminal Views
 ![Profile views](https://komarev.com/ghpvc/?username=ragyashraf&color=blueviolet&style=flat)
 
 ---
 
-## 📫 Connect with Me
-- Discord: `ragyashraf`
-- Email: [ragyashrafhelmy@gmail.com](mailto:ragyashrafhelmy@gmail.com)
+## ✉️ Incoming Connections
+> **Discord**: `ragyashraf`  
+> **Email**: [ragyashrafhelmy@gmail.com](mailto:ragyashrafhelmy@gmail.com)
+
+---
+
+> _"The only true limit... is RAM."_ – Ragy 🚀
