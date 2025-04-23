@@ -26,10 +26,14 @@
 
 ---
 
-### 🏆 GitHub Stats & Trophies
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ragyashraf&theme=gruvbox&no-frame=true&margin-w=10&column=3" />
 </p>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragyashraf&layout=compact&theme=tokyonight" />
@@ -39,7 +43,7 @@
 
 ### 📈 Contribution Pulse
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ragyashraf&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragyashraf&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
