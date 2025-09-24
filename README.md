@@ -61,7 +61,7 @@
 ---
 
 ### 📡 Incoming Connections
-**Discord**: `ragyashraf`  
+**Discord**: `ragyitsme`  
 **Email**: [ragyashrafhelmy@gmail.com](mailto:ragyashrafhelmy@gmail.com)
 
 ---
