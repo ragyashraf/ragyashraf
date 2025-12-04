@@ -1,100 +1,98 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff&height=180&section=header&text=Ragy%20Ashraf&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%26%20Systems%20Engineer&descAlignY=62&descAlign=50"/>
 
-# 🚀 **Ragy Ashraf — AI Developer & Systems Engineer**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Ragy+Ashraf;AI+Engineer+%26+Bot+Developer;Python+%7C+Lua+%7C+C%2B%2B+%7C+Java+Developer;Building+Smart+Systems+%26+Automation;Engineering+Tools+That+Scale\&center=true\&width=650\&height=45)](https://github.com/ragyashraf)
-
----
-
-## 🌐 **About Me**
-
-> **AI Developer | Bot Engineer | Roblox Systems Creator | Full-Stack Problem Solver**
-
-I build **automated systems**, **AI-powered tools**, and **multi-language applications** that focus on:
-
-* ⚙️ Performance
-* 🧠 Intelligence
-* 🔗 Cross-platform integration
-* 📡 Automation
-
-Whether it's Discord bots, backend systems, game frameworks, or AI utilities —
-**I design tools that scale, adapt, and actually work.**
+  <a href="https://github.com/ragyashraf">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🤖+Building+Smart+Systems+%26+Automation;🧠+AI+Engineer+%26+Bot+Developer;🕹️+Roblox+Systems+Creator;🚀+Engineering+Tools+That+Scale&center=true&width=500&height=50&color=33dbff"/>
+  </a>
+</div>
 
 ---
 
-## ⚙️ **Core Specialties**
+### 🌐 **About Me**
 
-* 🤖 AI Chat Systems & Model Integration
-* 🔌 Discord Bots & API Automation
-* 🧩 Modular System Architecture
-* 🕹️ Roblox Engineering (Lua, game logic, XP, shops, systems)
-* 📊 Data, DBs & Back-end Services
-* 🛠️ Software Tools & Utility Scripts
+<img align="right" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9uZW5vbmVub25lbm9uZW5vbmVub25lbm9uZW5vbmVub25lbm9uZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="coding bot" />
 
----
+> **"Build things that feel alive."** ⚡
 
-## 💻 **Tech Stack I Use Daily**
+I am a **Full-Stack Problem Solver** focused on creating intelligent automation and robust backend systems. Whether it's designing complex game logic for Roblox, training AI models for interactive bots, or architecting scalable microservices, I build tools that adapt and perform.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,lua,js,html,css,git,github,mysql,flask,express,nodejs,vscode,replit,figma&theme=dark" />
-</p>
+* 🔭 I’m currently working on **Advanced AI Bot Frameworks & Roblox Combat Logic**.
+* ⚙️ I prioritize **performance, cross-platform integration, and modular architecture**.
 
 ---
 
-## 🏆 **GitHub Achievements**
+### 💻 **The Arsenal (Tech Stack)**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ragyashraf&theme=tokyonight&no-frame=true&margin-w=10&column=4" />
-</p>
+I utilize a diverse set of tools to bring systems to life.
 
----
-
-## 📊 **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
+| **Core Languages** | **AI, Data & Backend** | **Game Dev & Platforms** | **Tools & DevOps** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) | ![Flask](https://skillicons.dev/icons?i=flask&theme=dark) ![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark) | ![Lua](https://skillicons.dev/icons?i=lua&theme=dark) ![Roblox](https://img.shields.io/badge/Roblox-Studio-000000?style=flat-square&logo=roblox&logoColor=white) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) |
+| ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![JS](https://skillicons.dev/icons?i=js&theme=dark) | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark) | ![Discord](https://skillicons.dev/icons?i=discord&theme=dark) ![Bots](https://img.shields.io/badge/bot-development-5865F2?style=flat-square&logo=discord&logoColor=white)| ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark) ![Replit](https://skillicons.dev/icons?i=replit&theme=dark) |
 
 ---
 
-## 🌌 **Contribution Graph**
+### 📊 **Engineering Metrics**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragyashraf&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ragy's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragyashraf&theme=tokyonight&hide_border=true" alt="Ragy's Streak" />
+      </td>
+    </tr>
+  </table>
 
----
+  <br/>
 
-## 🚀 **Projects & Work**
-
-### **Active Projects**
-
-* **AI Bot Frameworks** — Advanced response engines for Discord + automation
-* **Roblox Systems** — XP, shops, data stores, combat logic, optimization tools
-* **Developer Utilities** — Image tools, snipe tools, command-line automation
-* **Backend APIs** — Python + Node.js microservices and dashboards
-
-### **Coming Soon**
-
-* Public release of multiple tools (bots, dashboards, modules)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragyashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
 ---
 
-## 👁️ Profile Views
+### 🌌 **Contribution Timeline**
 
-![Profile views](https://komarev.com/ghpvc/?username=ragyashraf\&color=blueviolet\&style=flat)
-
----
-
-## 📡 **Contact**
-
-* **Discord**: `ragyitsme`
-* **Email**: **[ragyashrafhelmy@gmail.com](mailto:ragyashrafhelmy@gmail.com)**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragyashraf&theme=tokyo-night&hide_border=true&area=true&color=33dbff" width="100%" />
+</div>
 
 ---
 
-> *"Build things that feel alive."* — Ragy ⚡
+### 🏆 **Achievements**
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ragyashraf&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
+</div>
 
+---
 
-Just tell me the vibe you want.
+### 🚀 **Featured Projects & Work**
+
+| Project Category | Focus Area | Status |
+| :--- | :--- | :--- |
+| **🤖 AI Bot Frameworks** | Advanced response engines for Discord, automation logic, and model integration. | *Active* |
+| **🕹️ Roblox Systems** | Complex Lua engineering: XP systems, secure Datastores, shops, and combat logic. | *Active* |
+| **🛠️ Developer Utilities** | Command-line automation tools, image processors, and data snipe tools. | *Maintained* |
+| **📡 Backend APIs** | Python + Node.js microservices creating dashboards and data connection points. | *Active* |
+
+---
+
+<div align="center">
+
+### 📡 **Connect & Contact**
+
+<a href="mailto:ragyashrafhelmy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ragyashrafhelmy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://discord.com/users/ragyitsme">
+  <img src="https://img.shields.io/badge/Discord-ragyitsme-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=ragyashraf&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+</div>
