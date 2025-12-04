@@ -1,18 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff&height=180&section=header&text=Ragy%20Ashraf&fontSize=70&animation=fadeIn&fontAlignY=38"/>
-  
-  <br/>
-  
   <a href="https://github.com/ragyashraf">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%26+Bot+Developer;Roblox+Systems+Creator;Building+Smart+Automation&center=true&width=500&height=50&color=33dbff"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ragy+Ashraf;AI+Engineer+%26+Bot+Developer;Roblox+Systems+Creator;Building+Smart+Automation&center=true&width=500&height=50&color=33dbff"/>
   </a>
 </div>
 
 ---
 
 ### 🌐 **About Me**
-
-<img align="right" width="150" src="https://media.giphy.com/media/26tn33aiU1jGPEOEE/giphy.gif" alt="coding" />
 
 > **"Build things that feel alive."** ⚡
 
@@ -25,8 +19,6 @@ I am a **Full-Stack Problem Solver** focused on creating intelligent automation 
 
 ### 💻 **The Arsenal (Tech Stack)**
 
-I utilize a diverse set of tools to bring systems to life.
-
 | **Core Languages** | **AI, Data & Backend** | **Game Dev & Platforms** | **Tools & DevOps** |
 | :---: | :---: | :---: | :---: |
 | ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) | ![Flask](https://skillicons.dev/icons?i=flask&theme=dark) ![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark) | ![Lua](https://skillicons.dev/icons?i=lua&theme=dark) ![Roblox](https://img.shields.io/badge/Roblox-Studio-000000?style=flat-square&logo=roblox&logoColor=white) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) |
@@ -37,20 +29,7 @@ I utilize a diverse set of tools to bring systems to life.
 ### 📊 **Engineering Metrics**
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Ragy's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragyashraf&theme=tokyonight&hide_border=true" alt="Ragy's Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragyashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragyashraf&theme=tokyonight&hide_border=true" alt="Ragy's Streak" />
 </div>
 
 ---
