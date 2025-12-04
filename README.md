@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff&height=180&section=header&text=Ragy%20Ashraf&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%26%20Systems%20Engineer&descAlignY=62&descAlign=50"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c2ff&height=180&section=header&text=Ragy%20Ashraf&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%26%20Systems%20Engineer&descAlignY=55&descAlign=50"/>
+  
+  <br/>
+  
   <a href="https://github.com/ragyashraf">
     <img src="https://readme-typing-svg.demolab.com/?lines=🤖+Building+Smart+Systems+%26+Automation;🧠+AI+Engineer+%26+Bot+Developer;🕹️+Roblox+Systems+Creator;🚀+Engineering+Tools+That+Scale&center=true&width=500&height=50&color=33dbff"/>
   </a>
@@ -10,7 +12,7 @@
 
 ### 🌐 **About Me**
 
-<img align="right" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9uZW5vbmVub25lbm9uZW5vbmVub25lbm9uZW5vbmVub25lbm9uZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="coding bot" />
+<img align="right" width="150" src="https://media.giphy.com/media/QssGEmpjCQbwx86y17/giphy.gif" alt="coding bot" />
 
 > **"Build things that feel alive."** ⚡
 
@@ -38,7 +40,7 @@ I utilize a diverse set of tools to bring systems to life.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ragy's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true" alt="Ragy's GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragyashraf&theme=tokyonight&hide_border=true" alt="Ragy's Streak" />
@@ -57,14 +59,6 @@ I utilize a diverse set of tools to bring systems to life.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragyashraf&theme=tokyo-night&hide_border=true&area=true&color=33dbff" width="100%" />
-</div>
-
----
-
-### 🏆 **Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ragyashraf&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
 </div>
 
 ---
