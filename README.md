@@ -52,8 +52,8 @@ Whether it's Discord bots, backend systems, game frameworks, or AI utilities —
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragyashraf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
