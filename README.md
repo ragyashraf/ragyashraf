@@ -26,11 +26,12 @@ I am a **Full-Stack Problem Solver** focused on creating intelligent automation 
 
 ---
 
-### 📊 **Engineering Metrics**
+### 📊 Engineering Metrics
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ragyashraf&theme=tokyonight&hide_border=true" alt="Ragy's Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ragyashraf&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
