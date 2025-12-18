@@ -55,17 +55,24 @@ I am a **Full-Stack Problem Solver** focused on creating intelligent automation 
 
 <div align="center">
 
+<div align="center">
+
 ### 📡 **Connect & Contact**
 
 <a href="mailto:ragyashrafhelmy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ragyashrafhelmy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-ragyashrafhelmy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://discord.com/users/ragyitsme">
-  <img src="https://img.shields.io/badge/Discord-ragyitsme-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-ragyitsme-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://ragy.me">
+  <img src="https://img.shields.io/badge/Website-ragy.me-33dbff?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=ragyashraf&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ragyashraf&color=blueviolet&style=flat-square&label=Profile+Views" />
 
 </div>
