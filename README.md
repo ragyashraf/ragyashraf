@@ -28,9 +28,8 @@ I am a **Full-Stack Problem Solver** focused on creating intelligent automation 
 
 ### 📊 Engineering Metrics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ragyashraf&theme=tokyonight&hide_border=true" />
-</p>
+![Ragy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 
 ---
