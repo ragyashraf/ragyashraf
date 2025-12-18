@@ -29,7 +29,7 @@ I am a **Full-Stack Problem Solver** focused on creating intelligent automation 
 ### 📊 **Engineering Metrics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragyashraf&theme=tokyonight&hide_border=true" alt="Ragy's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragyashraf&theme=tokyonight&hide_border=true" alt="Ragy's Streak" />
 </div>
 
 ---
