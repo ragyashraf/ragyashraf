@@ -28,7 +28,7 @@ I am a **Full-Stack Problem Solver** focused on creating intelligent automation 
 
 ### 📊 Engineering Metrics
 
-![Ragy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true)
+![Ragy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragyashraf&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 
 
