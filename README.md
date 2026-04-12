@@ -26,14 +26,6 @@ I am a **Full-Stack Problem Solver** focused on creating intelligent automation 
 
 ---
 
-### 🌌 **Contribution Timeline**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragyashraf&theme=tokyo-night&hide_border=true&area=true&color=33dbff" width="100%" />
-</div>
-
----
-
 ### 🚀 **Featured Projects & Work**
 
 | Project Category | Focus Area | Status |
